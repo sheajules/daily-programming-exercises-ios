@@ -7,58 +7,58 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A1B2C3D4E5F6789012345678 /* FeelTheComplexityApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F6789012345677 /* FeelTheComplexityApp.swift */; };
-		A1B2C3D4E5F6789012345679 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F6789012345676 /* ContentView.swift */; };
-		A1B2C3D4E5F678901234567B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567A /* Assets.xcassets */; };
-		A1B2C3D4E5F678901234567E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567D /* Preview Assets.xcassets */; };
-		A1B2C3D4E5F678901234567F /* UserProgress.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567C /* UserProgress.swift */; };
-		A1B2C3D4E5F6789012345680 /* Lesson.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567G /* Lesson.swift */; };
-		A1B2C3D4E5F6789012345681 /* Achievement.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567H /* Achievement.swift */; };
-		A1B2C3D4E5F6789012345682 /* DailyStreak.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567I /* DailyStreak.swift */; };
-		A1B2C3D4E5F6789012345683 /* ComplexitySimulationEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567J /* ComplexitySimulationEngine.swift */; };
-		A1B2C3D4E5F6789012345684 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567K /* HomeView.swift */; };
-		A1B2C3D4E5F6789012345685 /* PlaygroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567L /* PlaygroundView.swift */; };
-		A1B2C3D4E5F6789012345686 /* CodeEditorTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567M /* CodeEditorTab.swift */; };
-		A1B2C3D4E5F6789012345687 /* VisualizationTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567N /* VisualizationTab.swift */; };
-		A1B2C3D4E5F6789012345688 /* PerformanceTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567O /* PerformanceTab.swift */; };
-		A1B2C3D4E5F6789012345689 /* HeatmapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567P /* HeatmapView.swift */; };
-		A1B2C3D4E5F678901234568A /* LearnView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567Q /* LearnView.swift */; };
-		A1B2C3D4E5F678901234568B /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567R /* ProfileView.swift */; };
-		A1B2C3D4E5F678901234568C /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567S /* WelcomeView.swift */; };
-		A1B2C3D4E5F678901234568D /* DailyPathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567T /* DailyPathView.swift */; };
-		A1B2C3D4E5F678901234568E /* LessonPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567U /* LessonPickerView.swift */; };
-		A1B2C3D4E5F678901234568F /* String+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567V /* String+Extensions.swift */; };
-		A1B2C3D4E5F6789012345690 /* FeelTheComplexity.entitlements in Resources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F678901234567W /* FeelTheComplexity.entitlements */; };
+		A1000001000000000001 /* FeelTheComplexityApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000001 /* FeelTheComplexityApp.swift */; };
+		A1000001000000000002 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000002 /* ContentView.swift */; };
+		A1000001000000000003 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1000002000000000003 /* Assets.xcassets */; };
+		A1000001000000000004 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1000002000000000004 /* Preview Assets.xcassets */; };
+		A1000001000000000005 /* UserProgress.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000005 /* UserProgress.swift */; };
+		A1000001000000000006 /* Lesson.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000006 /* Lesson.swift */; };
+		A1000001000000000007 /* Achievement.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000007 /* Achievement.swift */; };
+		A1000001000000000008 /* DailyStreak.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000008 /* DailyStreak.swift */; };
+		A1000001000000000009 /* ComplexitySimulationEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000009 /* ComplexitySimulationEngine.swift */; };
+		A1000001000000000010 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000010 /* HomeView.swift */; };
+		A1000001000000000011 /* PlaygroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000011 /* PlaygroundView.swift */; };
+		A1000001000000000012 /* CodeEditorTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000012 /* CodeEditorTab.swift */; };
+		A1000001000000000013 /* VisualizationTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000013 /* VisualizationTab.swift */; };
+		A1000001000000000014 /* PerformanceTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000014 /* PerformanceTab.swift */; };
+		A1000001000000000015 /* HeatmapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000015 /* HeatmapView.swift */; };
+		A1000001000000000016 /* LearnView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000016 /* LearnView.swift */; };
+		A1000001000000000017 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000017 /* ProfileView.swift */; };
+		A1000001000000000018 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000018 /* WelcomeView.swift */; };
+		A1000001000000000019 /* DailyPathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000019 /* DailyPathView.swift */; };
+		A1000001000000000020 /* LessonPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000020 /* LessonPickerView.swift */; };
+		A1000001000000000021 /* String+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000021 /* String+Extensions.swift */; };
+		A1000001000000000022 /* FeelTheComplexity.entitlements in Resources */ = {isa = PBXBuildFile; fileRef = A1000002000000000022 /* FeelTheComplexity.entitlements */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A1B2C3D4E5F6789012345673 /* FeelTheComplexity.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FeelTheComplexity.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A1B2C3D4E5F6789012345677 /* FeelTheComplexityApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeelTheComplexityApp.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F6789012345676 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567C /* FeelTheComplexity.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FeelTheComplexity.entitlements; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567G /* UserProgress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProgress.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567H /* Lesson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567I /* Achievement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Achievement.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567J /* DailyStreak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyStreak.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567K /* ComplexitySimulationEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplexitySimulationEngine.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567L /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567M /* PlaygroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaygroundView.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567N /* CodeEditorTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeEditorTab.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567O /* VisualizationTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualizationTab.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567P /* PerformanceTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerformanceTab.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567Q /* HeatmapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeatmapView.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567R /* LearnView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnView.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567S /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567T /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567U /* DailyPathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyPathView.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567V /* LessonPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonPickerView.swift; sourceTree = "<group>"; };
-		A1B2C3D4E5F678901234567W /* String+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String+Extensions.swift; sourceTree = "<group>"; };
+		A1000003000000000001 /* FeelTheComplexity.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FeelTheComplexity.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1000002000000000001 /* FeelTheComplexityApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeelTheComplexityApp.swift; sourceTree = "<group>"; };
+		A1000002000000000002 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A1000002000000000003 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A1000002000000000004 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A1000002000000000005 /* UserProgress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProgress.swift; sourceTree = "<group>"; };
+		A1000002000000000006 /* Lesson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson.swift; sourceTree = "<group>"; };
+		A1000002000000000007 /* Achievement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Achievement.swift; sourceTree = "<group>"; };
+		A1000002000000000008 /* DailyStreak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyStreak.swift; sourceTree = "<group>"; };
+		A1000002000000000009 /* ComplexitySimulationEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplexitySimulationEngine.swift; sourceTree = "<group>"; };
+		A1000002000000000010 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		A1000002000000000011 /* PlaygroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaygroundView.swift; sourceTree = "<group>"; };
+		A1000002000000000012 /* CodeEditorTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeEditorTab.swift; sourceTree = "<group>"; };
+		A1000002000000000013 /* VisualizationTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualizationTab.swift; sourceTree = "<group>"; };
+		A1000002000000000014 /* PerformanceTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerformanceTab.swift; sourceTree = "<group>"; };
+		A1000002000000000015 /* HeatmapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeatmapView.swift; sourceTree = "<group>"; };
+		A1000002000000000016 /* LearnView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnView.swift; sourceTree = "<group>"; };
+		A1000002000000000017 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		A1000002000000000018 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		A1000002000000000019 /* DailyPathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyPathView.swift; sourceTree = "<group>"; };
+		A1000002000000000020 /* LessonPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonPickerView.swift; sourceTree = "<group>"; };
+		A1000002000000000021 /* String+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extensions.swift"; sourceTree = "<group>"; };
+		A1000002000000000022 /* FeelTheComplexity.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FeelTheComplexity.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A1B2C3D4E5F6789012345670 /* Frameworks */ = {
+		A1000004000000000001 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -68,135 +68,143 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A1B2C3D4E5F678901234566A /* Products */ = {
+		A1000005000000000001 = {
 			isa = PBXGroup;
 			children = (
-				A1B2C3D4E5F6789012345673 /* FeelTheComplexity.app */,
+				A1000005000000000002 /* FeelTheComplexity */,
+				A1000005000000000003 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A1000005000000000002 /* FeelTheComplexity */ = {
+			isa = PBXGroup;
+			children = (
+				A1000005000000000004 /* App */,
+				A1000005000000000005 /* Core */,
+				A1000005000000000006 /* Features */,
+				A1000005000000000007 /* Resources */,
+			);
+			path = FeelTheComplexity;
+			sourceTree = "<group>";
+		};
+		A1000005000000000003 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A1000003000000000001 /* FeelTheComplexity.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A1B2C3D4E5F6789012345669 /* FeelTheComplexity */ = {
+		A1000005000000000004 /* App */ = {
 			isa = PBXGroup;
 			children = (
-				A1B2C3D4E5F678901234567X /* App */,
-				A1B2C3D4E5F678901234567Y /* Core */,
-				A1B2C3D4E5F678901234567Z /* Features */,
-				A1B2C3D4E5F678901234568A /* Resources */,
-				A1B2C3D4E5F678901234566A /* Products */,
-			);
-			sourceTree = "<group>";
-		};
-		A1B2C3D4E5F678901234567X /* App */ = {
-			isa = PBXGroup;
-			children = (
-				A1B2C3D4E5F6789012345677 /* FeelTheComplexityApp.swift */,
+				A1000002000000000001 /* FeelTheComplexityApp.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
 		};
-		A1B2C3D4E5F678901234567Y /* Core */ = {
+		A1000005000000000005 /* Core */ = {
 			isa = PBXGroup;
 			children = (
-				A1B2C3D4E5F678901234567B /* Models */,
-				A1B2C3D4E5F678901234567C /* Engine */,
-				A1B2C3D4E5F678901234567D /* Extensions */,
+				A1000005000000000008 /* Models */,
+				A1000005000000000009 /* Engine */,
+				A1000005000000000010 /* Extensions */,
 			);
 			path = Core;
 			sourceTree = "<group>";
 		};
-		A1B2C3D4E5F678901234567B /* Models */ = {
+		A1000005000000000008 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				A1B2C3D4E5F678901234567G /* UserProgress.swift */,
-				A1B2C3D4E5F678901234567H /* Lesson.swift */,
-				A1B2C3D4E5F678901234567I /* Achievement.swift */,
-				A1B2C3D4E5F678901234567J /* DailyStreak.swift */,
+				A1000002000000000005 /* UserProgress.swift */,
+				A1000002000000000006 /* Lesson.swift */,
+				A1000002000000000007 /* Achievement.swift */,
+				A1000002000000000008 /* DailyStreak.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
 		};
-		A1B2C3D4E5F678901234567C /* Engine */ = {
+		A1000005000000000009 /* Engine */ = {
 			isa = PBXGroup;
 			children = (
-				A1B2C3D4E5F678901234567K /* ComplexitySimulationEngine.swift */,
+				A1000002000000000009 /* ComplexitySimulationEngine.swift */,
 			);
 			path = Engine;
 			sourceTree = "<group>";
 		};
-		A1B2C3D4E5F678901234567D /* Extensions */ = {
+		A1000005000000000010 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				A1B2C3D4E5F678901234567W /* String+Extensions.swift */,
+				A1000002000000000021 /* String+Extensions.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
 		};
-		A1B2C3D4E5F678901234567Z /* Features */ = {
+		A1000005000000000006 /* Features */ = {
 			isa = PBXGroup;
 			children = (
-				A1B2C3D4E5F678901234567E /* Home */,
-				A1B2C3D4E5F678901234567F /* Playground */,
-				A1B2C3D4E5F6789012345680 /* Learn */,
-				A1B2C3D4E5F6789012345681 /* Profile */,
-				A1B2C3D4E5F6789012345682 /* DailyPath */,
+				A1000005000000000011 /* Home */,
+				A1000005000000000012 /* Playground */,
+				A1000005000000000013 /* Learn */,
+				A1000005000000000014 /* Profile */,
+				A1000005000000000015 /* DailyPath */,
 			);
 			path = Features;
 			sourceTree = "<group>";
 		};
-		A1B2C3D4E5F678901234567E /* Home */ = {
+		A1000005000000000011 /* Home */ = {
 			isa = PBXGroup;
 			children = (
-				A1B2C3D4E5F6789012345676 /* ContentView.swift */,
-				A1B2C3D4E5F678901234567L /* HomeView.swift */,
-				A1B2C3D4E5F678901234567T /* WelcomeView.swift */,
-				A1B2C3D4E5F678901234567U /* LessonPickerView.swift */,
+				A1000002000000000002 /* ContentView.swift */,
+				A1000002000000000010 /* HomeView.swift */,
+				A1000002000000000018 /* WelcomeView.swift */,
+				A1000002000000000020 /* LessonPickerView.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
 		};
-		A1B2C3D4E5F678901234567F /* Playground */ = {
+		A1000005000000000012 /* Playground */ = {
 			isa = PBXGroup;
 			children = (
-				A1B2C3D4E5F678901234567M /* PlaygroundView.swift */,
-				A1B2C3D4E5F678901234567N /* CodeEditorTab.swift */,
-				A1B2C3D4E5F678901234567O /* VisualizationTab.swift */,
-				A1B2C3D4E5F678901234567P /* PerformanceTab.swift */,
-				A1B2C3D4E5F678901234567Q /* HeatmapView.swift */,
+				A1000002000000000011 /* PlaygroundView.swift */,
+				A1000002000000000012 /* CodeEditorTab.swift */,
+				A1000002000000000013 /* VisualizationTab.swift */,
+				A1000002000000000014 /* PerformanceTab.swift */,
+				A1000002000000000015 /* HeatmapView.swift */,
 			);
 			path = Playground;
 			sourceTree = "<group>";
 		};
-		A1B2C3D4E5F6789012345680 /* Learn */ = {
+		A1000005000000000013 /* Learn */ = {
 			isa = PBXGroup;
 			children = (
-				A1B2C3D4E5F678901234567R /* LearnView.swift */,
+				A1000002000000000016 /* LearnView.swift */,
 			);
 			path = Learn;
 			sourceTree = "<group>";
 		};
-		A1B2C3D4E5F6789012345681 /* Profile */ = {
+		A1000005000000000014 /* Profile */ = {
 			isa = PBXGroup;
 			children = (
-				A1B2C3D4E5F678901234567S /* ProfileView.swift */,
+				A1000002000000000017 /* ProfileView.swift */,
 			);
 			path = Profile;
 			sourceTree = "<group>";
 		};
-		A1B2C3D4E5F6789012345682 /* DailyPath */ = {
+		A1000005000000000015 /* DailyPath */ = {
 			isa = PBXGroup;
 			children = (
-				A1B2C3D4E5F678901234567V /* DailyPathView.swift */,
+				A1000002000000000019 /* DailyPathView.swift */,
 			);
 			path = DailyPath;
 			sourceTree = "<group>";
 		};
-		A1B2C3D4E5F678901234568A /* Resources */ = {
+		A1000005000000000007 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				A1B2C3D4E5F678901234567A /* Assets.xcassets */,
-				A1B2C3D4E5F678901234567W /* FeelTheComplexity.entitlements */,
-				A1B2C3D4E5F678901234567D /* Preview Assets.xcassets */,
+				A1000002000000000003 /* Assets.xcassets */,
+				A1000002000000000022 /* FeelTheComplexity.entitlements */,
+				A1000002000000000004 /* Preview Assets.xcassets */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -204,13 +212,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A1B2C3D4E5F6789012345672 /* FeelTheComplexity */ = {
+		A1000006000000000001 /* FeelTheComplexity */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A1B2C3D4E5F678901234568B /* Build configuration list for PBXNativeTarget "FeelTheComplexity" */;
+			buildConfigurationList = A1000007000000000002 /* Build configuration list for PBXNativeTarget "FeelTheComplexity" */;
 			buildPhases = (
-				A1B2C3D4E5F678901234566F /* Sources */,
-				A1B2C3D4E5F6789012345670 /* Frameworks */,
-				A1B2C3D4E5F6789012345671 /* Resources */,
+				A1000008000000000001 /* Sources */,
+				A1000004000000000001 /* Frameworks */,
+				A1000009000000000001 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -218,25 +226,25 @@
 			);
 			name = FeelTheComplexity;
 			productName = FeelTheComplexity;
-			productReference = A1B2C3D4E5F6789012345673 /* FeelTheComplexity.app */;
+			productReference = A1000003000000000001 /* FeelTheComplexity.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A1B2C3D4E5F678901234566B /* Project object */ = {
+		A100000A00000000001 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1500;
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
-					A1B2C3D4E5F6789012345672 = {
+					A1000006000000000001 = {
 						CreatedOnToolsVersion = 15.0;
 					};
 				};
 			};
-			buildConfigurationList = A1B2C3D4E5F678901234566E /* Build configuration list for PBXProject "FeelTheComplexity" */;
+			buildConfigurationList = A1000007000000000001 /* Build configuration list for PBXProject "FeelTheComplexity" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -244,60 +252,60 @@
 				en,
 				Base,
 			);
-			mainGroup = A1B2C3D4E5F6789012345669 /* FeelTheComplexity */;
-			productRefGroup = A1B2C3D4E5F678901234566A /* Products */;
+			mainGroup = A1000005000000000001;
+			productRefGroup = A1000005000000000003 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A1B2C3D4E5F6789012345672 /* FeelTheComplexity */,
+				A1000006000000000001 /* FeelTheComplexity */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A1B2C3D4E5F6789012345671 /* Resources */ = {
+		A1000009000000000001 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1B2C3D4E5F678901234567E /* Preview Assets.xcassets in Resources */,
-				A1B2C3D4E5F678901234567B /* Assets.xcassets in Resources */,
-				A1B2C3D4E5F6789012345690 /* FeelTheComplexity.entitlements in Resources */,
+				A1000001000000000004 /* Preview Assets.xcassets in Resources */,
+				A1000001000000000003 /* Assets.xcassets in Resources */,
+				A1000001000000000022 /* FeelTheComplexity.entitlements in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A1B2C3D4E5F678901234566F /* Sources */ = {
+		A1000008000000000001 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1B2C3D4E5F6789012345678 /* FeelTheComplexityApp.swift in Sources */,
-				A1B2C3D4E5F6789012345679 /* ContentView.swift in Sources */,
-				A1B2C3D4E5F678901234567F /* UserProgress.swift in Sources */,
-				A1B2C3D4E5F6789012345680 /* Lesson.swift in Sources */,
-				A1B2C3D4E5F6789012345681 /* Achievement.swift in Sources */,
-				A1B2C3D4E5F6789012345682 /* DailyStreak.swift in Sources */,
-				A1B2C3D4E5F6789012345683 /* ComplexitySimulationEngine.swift in Sources */,
-				A1B2C3D4E5F6789012345684 /* HomeView.swift in Sources */,
-				A1B2C3D4E5F6789012345685 /* PlaygroundView.swift in Sources */,
-				A1B2C3D4E5F6789012345686 /* CodeEditorTab.swift in Sources */,
-				A1B2C3D4E5F6789012345687 /* VisualizationTab.swift in Sources */,
-				A1B2C3D4E5F6789012345688 /* PerformanceTab.swift in Sources */,
-				A1B2C3D4E5F6789012345689 /* HeatmapView.swift in Sources */,
-				A1B2C3D4E5F678901234568A /* LearnView.swift in Sources */,
-				A1B2C3D4E5F678901234568B /* ProfileView.swift in Sources */,
-				A1B2C3D4E5F678901234568C /* WelcomeView.swift in Sources */,
-				A1B2C3D4E5F678901234568D /* DailyPathView.swift in Sources */,
-				A1B2C3D4E5F678901234568E /* LessonPickerView.swift in Sources */,
-				A1B2C3D4E5F678901234568F /* String+Extensions.swift in Sources */,
+				A1000001000000000001 /* FeelTheComplexityApp.swift in Sources */,
+				A1000001000000000002 /* ContentView.swift in Sources */,
+				A1000001000000000005 /* UserProgress.swift in Sources */,
+				A1000001000000000006 /* Lesson.swift in Sources */,
+				A1000001000000000007 /* Achievement.swift in Sources */,
+				A1000001000000000008 /* DailyStreak.swift in Sources */,
+				A1000001000000000009 /* ComplexitySimulationEngine.swift in Sources */,
+				A1000001000000000010 /* HomeView.swift in Sources */,
+				A1000001000000000011 /* PlaygroundView.swift in Sources */,
+				A1000001000000000012 /* CodeEditorTab.swift in Sources */,
+				A1000001000000000013 /* VisualizationTab.swift in Sources */,
+				A1000001000000000014 /* PerformanceTab.swift in Sources */,
+				A1000001000000000015 /* HeatmapView.swift in Sources */,
+				A1000001000000000016 /* LearnView.swift in Sources */,
+				A1000001000000000017 /* ProfileView.swift in Sources */,
+				A1000001000000000018 /* WelcomeView.swift in Sources */,
+				A1000001000000000019 /* DailyPathView.swift in Sources */,
+				A1000001000000000020 /* LessonPickerView.swift in Sources */,
+				A1000001000000000021 /* String+Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		A1B2C3D4E5F678901234568C /* Debug */ = {
+		A100000B00000000001 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -360,7 +368,7 @@
 			};
 			name = Debug;
 		};
-		A1B2C3D4E5F678901234568D /* Release */ = {
+		A100000B00000000002 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -416,7 +424,7 @@
 			};
 			name = Release;
 		};
-		A1B2C3D4E5F678901234568E /* Debug */ = {
+		A100000B00000000003 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -446,7 +454,7 @@
 			};
 			name = Debug;
 		};
-		A1B2C3D4E5F678901234568F /* Release */ = {
+		A100000B00000000004 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -479,25 +487,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A1B2C3D4E5F678901234566E /* Build configuration list for PBXProject "FeelTheComplexity" */ = {
+		A1000007000000000001 /* Build configuration list for PBXProject "FeelTheComplexity" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A1B2C3D4E5F678901234568C /* Debug */,
-				A1B2C3D4E5F678901234568D /* Release */,
+				A100000B00000000001 /* Debug */,
+				A100000B00000000002 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A1B2C3D4E5F678901234568B /* Build configuration list for PBXNativeTarget "FeelTheComplexity" */ = {
+		A1000007000000000002 /* Build configuration list for PBXNativeTarget "FeelTheComplexity" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A1B2C3D4E5F678901234568E /* Debug */,
-				A1B2C3D4E5F678901234568F /* Release */,
+				A100000B00000000003 /* Debug */,
+				A100000B00000000004 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A1B2C3D4E5F678901234566B /* Project object */;
+	rootObject = A100000A00000000001 /* Project object */;
 }
