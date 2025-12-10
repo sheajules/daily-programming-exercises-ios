@@ -32,7 +32,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A1000003000000000001 /* FeelTheComplexity.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FeelTheComplexity.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1000002000000000001 /* FeelTheComplexityApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeelTheComplexityApp.swift; sourceTree = "<group>"; };
 		A1000002000000000002 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A1000002000000000003 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -55,6 +54,7 @@
 		A1000002000000000020 /* LessonPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonPickerView.swift; sourceTree = "<group>"; };
 		A1000002000000000021 /* String+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extensions.swift"; sourceTree = "<group>"; };
 		A1000002000000000022 /* FeelTheComplexity.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FeelTheComplexity.entitlements; sourceTree = "<group>"; };
+		A1000003000000000001 /* FeelTheComplexity.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FeelTheComplexity.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +113,28 @@
 			path = Core;
 			sourceTree = "<group>";
 		};
+		A1000005000000000006 /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				A1000005000000000011 /* Home */,
+				A1000005000000000012 /* Playground */,
+				A1000005000000000013 /* Learn */,
+				A1000005000000000014 /* Profile */,
+				A1000005000000000015 /* DailyPath */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		A1000005000000000007 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A1000002000000000003 /* Assets.xcassets */,
+				A1000002000000000022 /* FeelTheComplexity.entitlements */,
+				A1000002000000000004 /* Preview Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		A1000005000000000008 /* Models */ = {
 			isa = PBXGroup;
 			children = (
@@ -138,18 +160,6 @@
 				A1000002000000000021 /* String+Extensions.swift */,
 			);
 			path = Extensions;
-			sourceTree = "<group>";
-		};
-		A1000005000000000006 /* Features */ = {
-			isa = PBXGroup;
-			children = (
-				A1000005000000000011 /* Home */,
-				A1000005000000000012 /* Playground */,
-				A1000005000000000013 /* Learn */,
-				A1000005000000000014 /* Profile */,
-				A1000005000000000015 /* DailyPath */,
-			);
-			path = Features;
 			sourceTree = "<group>";
 		};
 		A1000005000000000011 /* Home */ = {
@@ -197,16 +207,6 @@
 				A1000002000000000019 /* DailyPathView.swift */,
 			);
 			path = DailyPath;
-			sourceTree = "<group>";
-		};
-		A1000005000000000007 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				A1000002000000000003 /* Assets.xcassets */,
-				A1000002000000000022 /* FeelTheComplexity.entitlements */,
-				A1000002000000000004 /* Preview Assets.xcassets */,
-			);
-			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -433,7 +433,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"FeelTheComplexity/Resources/Preview Content\"";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 2Z247688J9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -463,7 +463,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"FeelTheComplexity/Resources/Preview Content\"";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 2Z247688J9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
